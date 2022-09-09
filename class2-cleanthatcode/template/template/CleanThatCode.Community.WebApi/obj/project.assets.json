@@ -1,0 +1,155 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "CleanThatCode.Community.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/CleanThatCode.Community.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanThatCode.Community.Models.dll": {}
+        }
+      },
+      "CleanThatCode.Community.Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "CleanThatCode.Community.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanThatCode.Community.Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanThatCode.Community.Repositories.dll": {}
+        }
+      },
+      "CleanThatCode.Community.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "CleanThatCode.Community.Models": "1.0.0",
+          "CleanThatCode.Community.Repositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanThatCode.Community.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanThatCode.Community.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanThatCode.Community.Models/1.0.0": {
+      "type": "project",
+      "path": "../CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj",
+      "msbuildProject": "../CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj"
+    },
+    "CleanThatCode.Community.Repositories/1.0.0": {
+      "type": "project",
+      "path": "../CleanThatCode.Community.Repositories/CleanThatCode.Community.Repositories.csproj",
+      "msbuildProject": "../CleanThatCode.Community.Repositories/CleanThatCode.Community.Repositories.csproj"
+    },
+    "CleanThatCode.Community.Services/1.0.0": {
+      "type": "project",
+      "path": "../CleanThatCode.Community.Services/CleanThatCode.Community.Services.csproj",
+      "msbuildProject": "../CleanThatCode.Community.Services/CleanThatCode.Community.Services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "CleanThatCode.Community.Models >= 1.0.0",
+      "CleanThatCode.Community.Repositories >= 1.0.0",
+      "CleanThatCode.Community.Services >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Haustonn2022\\VEFT\\classAssign\\class2-cleanthatcode\\template\\template\\CleanThatCode.Community.WebApi\\CleanThatCode.Community.WebApi.csproj",
+      "projectName": "CleanThatCode.Community.WebApi",
+      "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Haustonn2022\\VEFT\\classAssign\\class2-cleanthatcode\\template\\template\\CleanThatCode.Community.WebApi\\CleanThatCode.Community.WebApi.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Haustonn2022\\VEFT\\classAssign\\class2-cleanthatcode\\template\\template\\CleanThatCode.Community.WebApi\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Lenovo\\OneDrive\\Documents\\Haustonn2022\\VEFT\\classAssign\\class2-cleanthatcode\\template\\template\\CleanThatCode.Community.Models\\CleanThatCode.Community.Models.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Haustonn2022\\VEFT\\classAssign\\class2-cleanthatcode\\template\\template\\CleanThatCode.Community.Models\\CleanThatCode.Community.Models.csproj"
+            },
+            "C:\\Users\\Lenovo\\OneDrive\\Documents\\Haustonn2022\\VEFT\\classAssign\\class2-cleanthatcode\\template\\template\\CleanThatCode.Community.Repositories\\CleanThatCode.Community.Repositories.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Haustonn2022\\VEFT\\classAssign\\class2-cleanthatcode\\template\\template\\CleanThatCode.Community.Repositories\\CleanThatCode.Community.Repositories.csproj"
+            },
+            "C:\\Users\\Lenovo\\OneDrive\\Documents\\Haustonn2022\\VEFT\\classAssign\\class2-cleanthatcode\\template\\template\\CleanThatCode.Community.Services\\CleanThatCode.Community.Services.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Haustonn2022\\VEFT\\classAssign\\class2-cleanthatcode\\template\\template\\CleanThatCode.Community.Services\\CleanThatCode.Community.Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

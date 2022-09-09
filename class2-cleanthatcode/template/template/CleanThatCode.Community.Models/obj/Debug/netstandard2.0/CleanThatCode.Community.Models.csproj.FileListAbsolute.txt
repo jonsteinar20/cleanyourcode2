@@ -1,0 +1,10 @@
+c:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Models\bin\Debug\netstandard2.0\CleanThatCode.Community.Models.deps.json
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Models\bin\Debug\netstandard2.0\CleanThatCode.Community.Models.dll
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Models\bin\Debug\netstandard2.0\CleanThatCode.Community.Models.pdb
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Models\obj\Debug\netstandard2.0\CleanThatCode.Community.Models.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Models\obj\Debug\netstandard2.0\CleanThatCode.Community.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Models\obj\Debug\netstandard2.0\CleanThatCode.Community.Models.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Models\obj\Debug\netstandard2.0\CleanThatCode.Community.Models.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Models\obj\Debug\netstandard2.0\CleanThatCode.Community.Models.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Models\obj\Debug\netstandard2.0\CleanThatCode.Community.Models.dll
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Models\obj\Debug\netstandard2.0\CleanThatCode.Community.Models.pdb

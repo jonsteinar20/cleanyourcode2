@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Services\bin\Debug\netstandard2.0\CleanThatCode.Community.Services.deps.json
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Services\bin\Debug\netstandard2.0\CleanThatCode.Community.Services.dll
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Services\bin\Debug\netstandard2.0\CleanThatCode.Community.Services.pdb
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Services\bin\Debug\netstandard2.0\CleanThatCode.Community.Models.dll
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Services\bin\Debug\netstandard2.0\CleanThatCode.Community.Repositories.dll
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Services\bin\Debug\netstandard2.0\CleanThatCode.Community.Repositories.pdb
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Services\bin\Debug\netstandard2.0\CleanThatCode.Community.Models.pdb
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Services\obj\Debug\netstandard2.0\CleanThatCode.Community.Services.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Services\obj\Debug\netstandard2.0\CleanThatCode.Community.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Services\obj\Debug\netstandard2.0\CleanThatCode.Community.Services.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Services\obj\Debug\netstandard2.0\CleanThatCode.Community.Services.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Services\obj\Debug\netstandard2.0\CleanThatCode.Community.Services.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Services\obj\Debug\netstandard2.0\CleanThatCode.Community.Services.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Services\obj\Debug\netstandard2.0\CleanThatCode.Community.Services.dll
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\classAssign\class2-cleanthatcode\template\template\CleanThatCode.Community.Services\obj\Debug\netstandard2.0\CleanThatCode.Community.Services.pdb

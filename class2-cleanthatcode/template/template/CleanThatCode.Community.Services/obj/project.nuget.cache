@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EBmZ0CCH0B2vcBOuPrKKLHz2HJfSSS+sjy5ydjfrA4nW9YcW6Tty6ibU9xduLKHuBCowcEy2XTZBdcukycocOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Haustonn2022\\VEFT\\classAssign\\class2-cleanthatcode\\template\\template\\CleanThatCode.Community.Services\\CleanThatCode.Community.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
