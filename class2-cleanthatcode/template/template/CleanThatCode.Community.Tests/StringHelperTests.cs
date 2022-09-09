@@ -1,30 +1,9 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using CleanThatCode.Community.Common;
-using CleanThatCode.Community.Repositories.Implementations;
-using CleanThatCode.Community.Tests.Mocks;
-using CleanThatCode.Community.Repositories.Data;
-using Moq;
-using System.Collections.Generic;
-using CleanThatCode.Community.Models.Entities;
 
 namespace CleanThatCode.Community.Tests
 {
-    [TestClass]
-    public class CommentRepositoryTests
-    {
-        private CommentRepository _commentRepository;
-        private Mock<ICleanThatCodeDbContext> _cleanThatCodeDbContextMock = new Mock<ICleanThatCodeDbContext>();
-
-        private List<Comment> Comments = new List<Comment>();
-
-        //[TestInitialize]
-
-        //public void Initialize()
-        //{
-        //    _cleanThatCodeDbContextMock.Setup(method => method.GetAllCommentsByPostId()).Returns(Comments);
-        //    _commentRepository = new CommentRepository(_cleanThatCodeDbContextMock.Object);
-        //}
-    }
+    
     // It is your job to make those tests pass, by implementing the methods in StringHelpers located in CleanThatCode.Community.Common
     [TestClass]
     public class StringHelperTests
